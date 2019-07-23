@@ -69,8 +69,8 @@ But it seems, `WebSiteManagementClient` class requires `ServiceClientCredentials
 Either documentation or the API surface of the `WebSiteManagementClient` class should be fixed.
 
 **Screenshots**
-![Screenshot 0](https://github.com/polatengin/azure-npdejs-sdk-websitemanagement-issue/raw/master/screenshot-0.png "Screenshot 0")
-![Screenshot 1](https://github.com/polatengin/azure-npdejs-sdk-websitemanagement-issue/raw/master/screenshot-1.png "Screenshot 1")
+![Screenshot 0](https://raw.githubusercontent.com/polatengin/azure-nodejs-sdk-websitemanagement-issue/master/screenshot-0.png "Screenshot 0")
+![Screenshot 1](https://raw.githubusercontent.com/polatengin/azure-nodejs-sdk-websitemanagement-issue/master/screenshot-1.png "Screenshot 1")
 
 **Additional context**
 Add any other context about the problem here.
