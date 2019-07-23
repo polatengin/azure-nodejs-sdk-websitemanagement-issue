@@ -1,4 +1,7 @@
 # azure-nodejs-sdk-websitemanagement-issue
+
+This repo is for explaining and following the issue I was created at [WebSiteManagementClient class or the documentation needs fix #4395](https://github.com/Azure/azure-sdk-for-js/issues/4395)
+
 There is an issue with the documentation or the API surface of the WebsiteManagement class of the Azure NodeJs SDK
 
 - **Package Name**: @azure/arm-appservice
