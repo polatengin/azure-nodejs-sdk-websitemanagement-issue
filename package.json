@@ -1,0 +1,17 @@
+{
+  "name": "azure-nodejs-sdk-websitemanagement-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/arm-appservice": "^5.8.0",
+    "@azure/ms-rest-nodeauth": "^2.0.2",
+    "typescript": "^3.5.3"
+  }
+}
